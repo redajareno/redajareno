@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @redajareno
-- 👀 I’m interested in becoming a Software Engingeer
-- 🌱 I’m currently in lieu of a Bachelor's of Science in Computer Science
+- 👀 Junior Software Salesforce Developer
 - 📫 How to reach me renoredaja@gmail.com
 
 <!---
