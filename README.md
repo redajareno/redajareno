@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redajareno
-- 👀 Junior Software Salesforce Developer
+- 👀 Salesforce Developer
 - 📫 How to reach me renoredaja@gmail.com
 
 <!---
